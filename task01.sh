@@ -1,0 +1,2 @@
+output=TXkgZGFkIGdhdmUgbWUgb25lIGRvbGxhciBiaWxsCidDYXVzZSBJJ20gaGlzIHNtYXJ0ZXN0IHNvbiwKQW5kIEkgc3dhcHBlZCBpdCBmb3IgdHdvIHNoaW55IHF1YXJ0ZXJzCidDYXVzZSB0d28gaXMgbW9yZSB0aGFuIG9uZSE=
+echo $output | base64 -D > output.txt
